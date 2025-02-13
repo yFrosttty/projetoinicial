@@ -32,6 +32,7 @@ const TestUseState = () => {
         onClick={() => {
           setNumber(number - 1); //diminui 1 do valor atual
         }}
+        
       >
         {" "}
         -{" "}
